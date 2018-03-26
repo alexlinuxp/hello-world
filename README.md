@@ -1,2 +1,2 @@
 # hello-world
-Proba na github so hello-world.
+Nova linija na pocetok za da se razlikuva hehuuu.
